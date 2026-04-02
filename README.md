@@ -13,6 +13,9 @@ However, it's important to realize that Tiny3.5 is sub-2B parameters. Don't expe
 500M model (HuggingFace): https://huggingface.co/reecdev/Tiny3.5-Coder-500M/
 
 
+1.5B model (HuggingFace): https://huggingface.co/reecdev/Tiny3.5-1.5B/
+
+
 Ollama page: https://ollama.com/reecdev/tiny3.5
 
 ## My Distillation Approach
