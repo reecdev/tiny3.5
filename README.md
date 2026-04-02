@@ -6,6 +6,8 @@ This is the repo I use to organize my code and keep files for distillation. If y
 
 ## How do I use this?
 ~~Weights will be released on Ollama soon, once I'm done collecting data and finetuning. A link will be added here.~~
+
+
 500M model: https://huggingface.co/reecdev/Tiny3.5-Coder-500M/
 
 ## My Distillation Approach
