@@ -5,7 +5,8 @@ An attempt to compress Qwen3.5 into 500M and 1.5B parameters.
 This is the repo I use to organize my code and keep files for distillation. If you want to do something like this yourself, pairs.jsonl (The actual user-assistant pairs) and maketrain.py (Training data collection script) are included.
 
 ## How do I use this?
-Weights will be released on Ollama soon, once I'm done collecting data and finetuning. A link will be added here.
+~~Weights will be released on Ollama soon, once I'm done collecting data and finetuning. A link will be added here.~~
+500M model: https://huggingface.co/reecdev/Tiny3.5-Coder-500M/
 
 ## My Distillation Approach
 The base models I'll be using for Tiny3.5 are Qwen2.5-Coder-0.5B and Qwen2.5-Coder-1.5B. I use multi-shot distillation to fix issues like overthinking, looping, exc. because with a model this small, these issues can be silent killers.
