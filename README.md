@@ -7,7 +7,7 @@ The strengths of Tiny3.5 include very low inference latency, minimal overthinkin
 However, it's important to realize that Tiny3.5 is sub-2B parameters. Don't expect a 99% score on every single benchmark.
 
 ## How do I use this?
-~~Weights will be released on Ollama soon, once I'm done collecting data and finetuning. A link will be added here.~~
+Weights are available on both HuggingFace and Ollama. Here are the links to each version of the model:
 
 
 500M model (HuggingFace): https://huggingface.co/reecdev/Tiny3.5-Coder-500M/
