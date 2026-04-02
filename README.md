@@ -16,7 +16,7 @@ However, it's important to realize that Tiny3.5 is sub-2B parameters. Don't expe
 Ollama page: https://ollama.com/reecdev/tiny3.5
 
 ## My Distillation Approach
-The base models I'll be using for Tiny3.5 are Qwen2.5-Coder-0.5B and Qwen2.5-Coder-1.5B. I use multi-shot distillation to fix issues like overthinking, looping, exc. because with a model this small, these issues can be silent killers.
+The base models I'll be using for Tiny3.5 are Qwen2.5-Coder-0.5B and Qwen2.5-1.5B. I use multi-shot distillation to fix issues like overthinking, looping, exc. because with a model this small, these issues can be silent killers.
 
 Regular distillation is like: "Emulate the model perfectly."
 
